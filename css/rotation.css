@@ -141,6 +141,7 @@ span {
   width: 15px;
   padding: 5px 9px;
   transition: all 0.5s ease-in-out;
+  animation-direction: alternate-reverse;
 }
 
 .plat:hover .check {
@@ -152,6 +153,11 @@ span {
   transform: rotate(360deg);
 }
 
+/*Virer position absolute et relative*/
+/*Comment placer correctement <div class="check"> par rapport à son parent ?*/
+/*transtion ne doit pas s'interrompre brutalement*/
+/*# sourceMappingURL=rotation.css.map */
+/*# sourceMappingURL=rotation.css.map */
 /*# sourceMappingURL=rotation.css.map */
 /*# sourceMappingURL=rotation.css.map */
 
